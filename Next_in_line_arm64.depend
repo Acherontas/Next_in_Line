@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1749300461 source:/home/acherontas/codeblock/Next_in_line_arm64/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<math.h>
+
