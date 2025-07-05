@@ -1,0 +1,112 @@
+Trying to figure out the next nunmber of 
+12 27 32 85 ... 
+
+for 37 
+
+how many numbers u want max 1000 ? : 5
+u enter : 5
+enter the loop times till 100 : 10
+for 1 enter number : 12
+for 2 enter number : 27
+for 3 enter number : 32
+for 4 enter number : 85
+for 5 enter number : 37
+
+using main 12 with main cd of 3 and incr 10 -----> returning main 12 --> 12
+using main 27 with main cd of 9 and incr 13 -----> returning main 27 --> 18
+using main 32 with main cd of 5 and incr 19 -----> returning main 32 --> 23
+using main 85 with main cd of 4 and incr 24 -----> returning main 85 --> 31
+using main 37 with main cd of 1 and incr 32 -----> returning main 37 --> 37
+----------------------
+using main 12 with main cd of 3 and incr 38 -----> returning main 12 --> 39
+using main 27 with main cd of 9 and incr 40 -----> returning main 27 --> 45
+using main 32 with main cd of 5 and incr 46 -----> returning main 32 --> 50
+using main 85 with main cd of 4 and incr 51 -----> returning main 85 --> 58
+using main 37 with main cd of 1 and incr 59 -----> returning main 37 --> 64
+----------------------
+using main 12 with main cd of 3 and incr 65 -----> returning main 12 --> 66
+using main 27 with main cd of 9 and incr 67 -----> returning main 27 --> 72
+using main 32 with main cd of 5 and incr 73 -----> returning main 32 --> 77
+using main 85 with main cd of 4 and incr 78 -----> returning main 85 --> 85
+using main 37 with main cd of 1 and incr 86 -----> returning main 37 --> 91
+----------------------
+using main 12 with main cd of 3 and incr 92 -----> returning main 12 --> 93
+using main 27 with main cd of 9 and incr 94 -----> returning main 27 --> 99
+----------------------
+
+xvc 17
+12 18 23 31 37 39 45 50 58 64 66 72 77 85 91 93 99 
+
+lv 3
+pvt 5
+
+12 39 66 93 
+18 45 72 99 
+23 50 77 -1 
+31 58 85 -1 
+37 64 91 -1 
+
+of string 
+12 :: 2 9 6 3 
+27 :: 8 5 2 9 
+32 :: 3 0 7 
+85 :: 1 8 5 
+37 :: 7 4 1 
+
+
+for 56
+
+how many numbers u want max 1000 ? : 5
+u enter : 5
+enter the loop times till 100 : 10 
+for 1 enter number : 12
+for 2 enter number : 27
+for 3 enter number : 32
+for 4 enter number : 85
+for 5 enter number : 56
+
+using main 12 with main cd of 3 and incr 10 -----> returning main 12 --> 12
+using main 27 with main cd of 9 and incr 13 -----> returning main 27 --> 18
+using main 32 with main cd of 5 and incr 19 -----> returning main 32 --> 23
+using main 85 with main cd of 4 and incr 24 -----> returning main 85 --> 31
+using main 56 with main cd of 2 and incr 32 -----> returning main 56 --> 38
+----------------------
+using main 12 with main cd of 3 and incr 39 -----> returning main 12 --> 39
+using main 27 with main cd of 9 and incr 40 -----> returning main 27 --> 45
+using main 32 with main cd of 5 and incr 46 -----> returning main 32 --> 50
+using main 85 with main cd of 4 and incr 51 -----> returning main 85 --> 58
+using main 56 with main cd of 2 and incr 59 -----> returning main 56 --> 65
+----------------------
+using main 12 with main cd of 3 and incr 66 -----> returning main 12 --> 66
+using main 27 with main cd of 9 and incr 67 -----> returning main 27 --> 72
+using main 32 with main cd of 5 and incr 73 -----> returning main 32 --> 77
+using main 85 with main cd of 4 and incr 78 -----> returning main 85 --> 85
+using main 56 with main cd of 2 and incr 86 -----> returning main 56 --> 92
+----------------------
+using main 12 with main cd of 3 and incr 93 -----> returning main 12 --> 93
+using main 27 with main cd of 9 and incr 94 -----> returning main 27 --> 99
+----------------------
+
+xvc 17
+12 18 23 31 38 39 45 50 58 65 66 72 77 85 92 93 99 
+
+lv 3
+pvt 5
+
+12 39 66 93 
+18 45 72 99 
+23 50 77 -1 
+31 58 85 -1 
+38 65 92 -1 
+
+of string 
+12 :: 2 9 6 3 
+27 :: 8 5 2 9 
+32 :: 3 0 7 
+85 :: 1 8 5 
+56 :: 8 5 2 
+
+
+its the pivoting systems
+a highly controversial or not psychedelic model? 
+in number sequence maybe
